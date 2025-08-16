@@ -73,6 +73,20 @@ npm run dev
 # Production
 npm start
 ```
+### Project Screenshots
+
+#### Upload / Input Transcript
+![IMG1](https://raw.githubusercontent.com/mrityu12/ai-meeting-summarizer/d9dc3703cb488c1d93305c603a4e9d56bb1b1c08/IMG1.png)
+![IMG2](https://raw.githubusercontent.com/mrityu12/ai-meeting-summarizer/d9dc3703cb488c1d93305c603a4e9d56bb1b1c08/IMG2.png)
+
+#### Custom Prompt / Generate in Action
+![IMG3](https://raw.githubusercontent.com/mrityu12/ai-meeting-summarizer/d9dc3703cb488c1d93305c603a4e9d56bb1b1c08/IMG3.png)
+![IMG4](https://raw.githubusercontent.com/mrityu12/ai-meeting-summarizer/d9dc3703cb488c1d93305c603a4e9d56bb1b1c08/IMG4.png)
+
+#### Generated Summary / Share Summary
+![IMG5](https://raw.githubusercontent.com/mrityu12/ai-meeting-summarizer/d9dc3703cb488c1d93305c603a4e9d56bb1b1c08/IMG5.png)
+![IMG6](https://raw.githubusercontent.com/mrityu12/ai-meeting-summarizer/d9dc3703cb488c1d93305c603a4e9d56bb1b1c08/IMG6.png)
+
 
 4. **Open in browser**: http://localhost:3000
 
@@ -293,3 +307,7 @@ For issues and questions:
 =======
 # ai-meeting-summarizer
 >>>>>>> 9f978e8f185aed2d34c7c883304272087d18a556
+>>>>>>> ---
+
+💙 Made with ❤️ by **Mrityunjay Kumar**
+
