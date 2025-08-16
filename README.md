@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Meeting Summarizer
 
 A full-stack web application that uses AI to summarize meeting transcripts and share them via email.
@@ -289,3 +290,6 @@ For issues and questions:
 - File upload support
 - Email sharing
 - Responsive design
+=======
+# ai-meeting-summarizer
+>>>>>>> 9f978e8f185aed2d34c7c883304272087d18a556
